@@ -1,6 +1,6 @@
 # Soφ (Sophie) AI: The Biomedical Lab Assistant
 *Your intelligent partner for protocols, troubleshooting, and data analysis.*
-Soφ AI - (Sophie), The ultimate AI Agent for biomedical and life science researcher to learn about and get full protocols for different procedures in seconds! CLYTE's first step toward standardized and open science for all; and first of our many "AI in healthcare" innovations.
+[Soφ AI - (Sophie)](https://www.clyte.tech/sop-ai), The ultimate AI Agent for biomedical and life science researcher to learn about and get full protocols for different procedures in seconds! CLYTE's first step toward standardized and open science for all; and first of our many "AI in healthcare" innovations.
 
 ## Introduction
 **Soφ AI (Sophie)** is a dedicated AI lab assistant developed by [CLYTE Technologies](https://www.clyte.tech). Unlike general-purpose chatbots, Sophie is engineered specifically for **biomedical and healthcare research**.
@@ -9,7 +9,7 @@ Its primary mission is to end the "Protocol Quest"—the hours researchers spend
 
 ---
 
-## Key Capabilities (Soφ 2.0)
+## Key Capabilities ([Soφ 2.0](https://www.clyte.tech/sop-ai))
 The latest V2.0 update introduces several critical features for modern labs:
 * **Dynamic Protocol Generation:** Creates step-by-step instructions tailored to your specific cell lines, reagents, and equipment.
 * **Automated Fact-Checking:** Cross-references generated answers against scientific literature to ensure accuracy.
