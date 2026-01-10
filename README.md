@@ -24,7 +24,7 @@ Its primary mission is to end the "Protocol Quest"—the hours researchers spend
 
 ---
 
-## Key Capabilities ([Soφ 2.0](https://www.clyte.tech/sop-ai))
+## Key Capabilities ([Soφ 3.0](https://www.clyte.tech/sop-ai))
 ### 1. Dynamic Protocol Generation (Interactive)
 Sophie doesn't just "tell" you the protocol; it builds a UI for it.
 * **Scenario:** You need a Western Blot protocol for HeLa cells.
@@ -41,7 +41,7 @@ Diagnose experimental failures by analyzing symptoms against an expanded knowled
 * **Example:** *"My PCR bands are smearing."* -> Sophie analyzes primer design, template concentration, and cycling conditions to offer a ranked list of solutions.
 
   
-The latest V2.0 update introduces several critical features for modern labs:
+The V2.0 update introduced several critical features for modern labs:
 * **Dynamic Protocol Generation:** Creates step-by-step instructions tailored to your specific cell lines, reagents, and equipment.
 * **Automated Fact-Checking:** Cross-references generated answers against scientific literature to ensure accuracy.
 * **Intelligent Troubleshooting:** Diagnoses experimental failures by analyzing symptoms against millions of data points.
