@@ -1,6 +1,21 @@
-# Soφ (Sophie) AI: The Biomedical Lab Assistant
+# Soφ (Sophie) AI 3.0: The Intelligent Lab Partner
+*Updated (Jan 2026): Faster, Visual, and Integrated.*
 *Your intelligent partner for protocols, troubleshooting, and data analysis.*
 [Soφ AI - (Sophie)](https://www.clyte.tech/sop-ai), The ultimate AI Agent for biomedical and life science researcher to learn about and get full protocols for different procedures in seconds! CLYTE's first step toward standardized and open science for all; and first of our many "AI in healthcare" innovations.
+
+### 🚀 What's New in Version 3.0 (Jan 2026)
+The latest update transforms Sophie from a text chatbot into a fully interactive lab partner.
+* **⚡ 30% Faster:** Optimization algorithms have significantly reduced response times.
+* **📱 Interactive SOP UIs:** Protocols are no longer static text blocks. Sophie now generates **interactive checklists and UIs** that allow you to track your progress step-by-step directly in the chat window.
+* 
+* **📷 Integrated Image Analysis:** Sophie can now directly process scratch assay images (see specific guide below).
+* 
+* **🧠 Smarter Context:** The "Context Bug" has been resolved—Sophie now perfectly remembers earlier parts of long conversations.
+* **💾 Chat History:** Users with an account can now save and revisit previous conversations.
+* **🔗 Enhanced UX:**
+    * **Clickable Links:** All citations and resource references are now direct hyperlinks.
+    * **Skip Streaming:** In a hurry? Click to skip the text generation animation and see the full answer instantly.
+
 
 ## Introduction
 **Soφ AI (Sophie)** is a dedicated AI lab assistant developed by [CLYTE Technologies](https://www.clyte.tech). Unlike general-purpose chatbots, Sophie is engineered specifically for **biomedical and healthcare research**.
@@ -10,6 +25,22 @@ Its primary mission is to end the "Protocol Quest"—the hours researchers spend
 ---
 
 ## Key Capabilities ([Soφ 2.0](https://www.clyte.tech/sop-ai))
+### 1. Dynamic Protocol Generation (Interactive)
+Sophie doesn't just "tell" you the protocol; it builds a UI for it.
+* **Scenario:** You need a Western Blot protocol for HeLa cells.
+* **The V3.0 Experience:** Instead of a wall of text, you get an interactive checklist. You can check off "Lysis Buffer Prep" and expand the "Incubation" section only when you are ready, keeping your screen clean and focused.
+
+### 2. Soφ Scratch Assay Analyzer
+**The Game Changer.** Sophie is now capable of performing high-throughput analysis on scratch assay images directly within the workflow.
+* **Standardization:** Uses a multi-layer algorithm for consistent gap detection.
+* **Accuracy:** Eliminates user bias common in manual ImageJ analysis.
+* **Guide:** For a full walkthrough on using this specific feature, visit the **[Soφ Scratch Analyzer Documentation](https://github.com/MojTabax2/sophie-scratch-assay-analyzer)**.
+
+### 3. Intelligent Troubleshooting
+Diagnose experimental failures by analyzing symptoms against an expanded knowledgebase.
+* **Example:** *"My PCR bands are smearing."* -> Sophie analyzes primer design, template concentration, and cycling conditions to offer a ranked list of solutions.
+
+  
 The latest V2.0 update introduces several critical features for modern labs:
 * **Dynamic Protocol Generation:** Creates step-by-step instructions tailored to your specific cell lines, reagents, and equipment.
 * **Automated Fact-Checking:** Cross-references generated answers against scientific literature to ensure accuracy.
@@ -75,6 +106,14 @@ The latest V2.0 update introduces several critical features for modern labs:
     * Hypothesis suggestions for the next experiment.
 
 ---
+## Why Upgrade to Soφ 3.0?
+| Feature | Old Version (2.0) | **New Version (3.0)** |
+| :--- | :--- | :--- |
+| **Format** | Static Text Blocks | **Interactive SOP UIs** |
+| **Speed** | Standard | **30% Faster** |
+| **Scratch Assay** | External Tool | **Integrated Analysis** |
+| **References** | Plain Text | **Clickable Links** |
+| **Session** | Temporary | **Retained History (Logged in)** |
 
 ## Summary
 | Feature | Traditional Method | With Soφ AI |
